@@ -1,0 +1,9 @@
+h1{
+    color: red
+}
+
+#form{
+    margin-left: 15%;
+    width: 70%;
+    border: 1px solid #888;
+}
